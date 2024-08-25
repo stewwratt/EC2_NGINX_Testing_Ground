@@ -5,7 +5,5 @@ git pull origin main  # Pull the latest code from GitHub
 sudo systemctl restart nginx  # Restart Nginx to apply any changes
 
 
-# adding comment to test post push hook
-
 
 
